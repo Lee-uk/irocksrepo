@@ -4,7 +4,7 @@ const app = express();
 var server = http.createServer(app);
 
 app.get('/', function(req, res){
-    res.send('Fucking Fuck Shit Idiots!!');
+    res.send('Fucking Fuck Shit Idiots!!!!!');
 });
 
 app.get('/start', function(req, res){
